@@ -1,6 +1,8 @@
 ## Hi there 👋🏾
 
-I'm a Software Engineer and Graphic Designer focused on developing backend systems for web applications. I'm currently an undergraduate student of Computer Science at Federal University Lokoja, Nigeria and also a freelancer. I'm an enthusiast for tecgnolgy, gadgets, world histories and sharing technical knowledge from my personal learning path and also I like talking about the Gospel of Christ. 
+I'm a Software Engineer and Graphic Designer focused on developing backend systems for web applications. I'm currently an undergraduate student of Computer Science at Federal University Lokoja, Nigeria and also a freelancer. 
+
+I'm an enthusiast for technolgy, gadgets, world histories and sharing technical knowledge from my personal learning path. Also I like talking about the Gospel of Christ. 
 
 I contribute to community events and build exciting personal apps.
 
@@ -19,3 +21,5 @@ I contribute to community events and build exciting personal apps.
 [Twitter](https://twitter.com/helewud)
 [Instagram](https://instagram.com/helewud)
 [LinkedIn]()
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helewud&count_private=true&theme=tokyonight)
