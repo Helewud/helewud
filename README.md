@@ -1,4 +1,4 @@
-#### Hi there 👋🏾
+##### Hi there 👋🏾
 
 I'm a Software Engineer and Graphic Designer focused on developing backend systems for web applications. I'm currently an undergraduate student of Computer Science at Federal University Lokoja, Nigeria and also a freelancer. I'm an enthusiast for tecgnolgy, gadgets, world histories and sharing technical knowledge from my personal learning path and also I like talking about the Gospel of Christ. 
 
