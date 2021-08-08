@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
 
-I'm Okikijesu Elewude, a Software Engineer and Graphic Designer focused on developing backend systems for web applications. I'm currently an undergraduate student of Computer Science at Federal University Lokoja, Nigeria and also a freelancer. 
+I'm **Okikijesu Elewude**, a Software Engineer and Graphic Designer focused on developing backend systems for web applications. I'm currently an undergraduate student of Computer Science at Federal University Lokoja, Nigeria and also a freelancer. 
 
 I'm an enthusiast for technolgy, gadgets, world histories and sharing technical knowledge from my personal learning path. Also I like talking about the Gospel of Christ. 
 
@@ -25,7 +25,7 @@ I contribute to community events and build exciting personal apps.
 - [GitHub](https://github.com/helewud)
 - [Twitter](https://twitter.com/helewud)
 - [Instagram](https://instagram.com/helewud)
-- [LinkedIn]()
+- [LinkedIn](linkedin.com/in/okikijesu-elewude-06a6b3186)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helewud)](https://github.com/anuraghazra/github-readme-stats)
 
