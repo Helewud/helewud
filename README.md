@@ -16,11 +16,11 @@ I contribute to community events and build exciting personal apps.
 
 #### Useful Links
 
-[Personal website](https://github.com/helewud)
-[GitHub](https://github.com/helewud)
-[Twitter](https://twitter.com/helewud)
-[Instagram](https://instagram.com/helewud)
-[LinkedIn]()
+- [Personal website](https://github.com/helewud)
+- [GitHub](https://github.com/helewud)
+- [Twitter](https://twitter.com/helewud)
+- [Instagram](https://instagram.com/helewud)
+- [LinkedIn]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helewud)](https://github.com/anuraghazra/github-readme-stats)
 
