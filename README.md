@@ -14,7 +14,8 @@ I contribute to community events and build exciting personal apps.
 - ⚡ Fun fact: I love watching world history documentaries
 - 💼 Job interests: Software Engineer or Backend Engineer (Intern or Junior)
 
-### [Languages and tools](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+### Languages and tools
+[![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 
 #### Useful Links
 
