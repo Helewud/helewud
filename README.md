@@ -6,8 +6,8 @@ I contribute to community events and build exciting personal apps.
 
 - 😄 Pronouns: He/him
 - 🌱 I’m currently learning Node.js and Python
-- 👯 I’m looking to collaborate on Node.js projects
-- 💬 Ask me about: Node.js, graphics design and tech community to  get your tech career started.
+- 👯 I’m looking to collaborate on Javascript and Node.js projects
+- 💬 Ask me about: Node.js, Javascript, graphics design and tech community to  get your tech career started.
 - 🤔 I’m looking for help with open source projects and internship
 - ⚡ Fun fact: I love watching world history documentaries
 - 💼 Job interests: Software Engineer or Backend Engineer (Intern or Junior)
