@@ -24,6 +24,7 @@ I contribute to community events and build exciting personal apps.
 - [Twitter](https://twitter.com/helewud)
 - [Instagram](https://instagram.com/helewud)
 - [LinkedIn](linkedin.com/in/okikijesu-elewude-06a6b3186)
+- [Download Resume](https://bit.ly/OkikijesuElewudeResume)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helewud)](https://github.com/anuraghazra/github-readme-stats)
 
