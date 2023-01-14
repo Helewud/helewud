@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
 
-I'm **Okikijesu Elewude**, a Software Engineer and Graphic Designer focused on developing backend systems for web applications. I'm an enthusiast for technolgy, gadgets, world histories and sharing technical knowledge from my personal learning path. Also I like talking about the Gospel of Christ. 
+I'm **Okikijesu Elewude**, a Software Engineer focused on developing backend systems for web applications. I'm an enthusiast for technolgy, gadgets, world histories and sharing technical knowledge from my personal learning path. Also I like talking about the Gospel of Christ. 
 
 I contribute to community events and build exciting personal apps.
 
@@ -14,7 +14,7 @@ I contribute to community events and build exciting personal apps.
 
 ### Languages and tools
 
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25">
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25">
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="25">
 
 #### Useful Links
