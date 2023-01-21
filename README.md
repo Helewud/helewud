@@ -26,6 +26,6 @@
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=helewud&theme=city_lights&show_icons=true" style='height:20vh' />
+<img src="https://github-readme-stats.vercel.app/api?username=helewud&theme=city_lights&show_icons=true&count_private=true" style='height:20vh' />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helewud&theme=city_lights&hide=html,shell,pug" style='height:20vh;' />
 </div>
