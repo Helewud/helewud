@@ -12,7 +12,7 @@
 
 #### Technology Stacks
 
-- Language: JavaScript, TypeScript
+- Language: JavaScript, TypeScript, Go
 - Messaging: Redis,RabbitMQ
 - DBMS: PostgreSQL, MongoDB
 - Infrastructure: Docker
